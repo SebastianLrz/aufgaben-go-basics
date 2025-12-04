@@ -5,10 +5,3 @@ func CountDivisors(n int) int {
 	// TODO
 	return 0
 }
-
-// HINWEIS
-// - Definieren Sie sich eine Zählvariable, die die Anzahl der Teiler speichert.
-// - Nutzen Sie eine Schleife, die alle Zahlen von 1 bis n durchgeht.
-//   Prüfen Sie mittels des "Modulo"-Operators `%`, ob die aktuelle Zahl ein Teiler von n ist.
-//   - Der Modulo-Operator `%` gibt den Rest einer Division zurück.
-//   - Eine Zahl i ist genau dann ein Teiler von n, wenn n%i == 0 ist.

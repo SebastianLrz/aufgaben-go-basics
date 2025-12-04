@@ -8,8 +8,3 @@ func PositionOf(s string, c byte) int {
 	// TODO
 	return 0
 }
-
-// HINWEIS
-// Laufen Sie in einer for-Schleife über alle Buchstaben des Strings.
-// Prüfen Sie in jedem Schleifendurchlauf, ob der aktuelle Buchstabe gleich c ist.
-// Wenn ja, geben Sie die aktuelle Position zurück (vorzeitiger Abbruch der Funktion).

@@ -6,7 +6,3 @@ package rectangles
 func DrawSolidRectangle(height, width int) {
 	// TODO
 }
-
-// HINWEIS
-// - Nutzen Sie zwei ineinander geschachtelte Schleifen, um die Zeilen und Spalten des Rechtecks zu durchlaufen.
-// - Die äußere Schleife sollte die Zeilen des Rechtecks durchlaufen, die innere Schleife die Spalten.

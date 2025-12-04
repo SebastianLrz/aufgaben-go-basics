@@ -8,8 +8,3 @@ package triangles
 func DrawSolidTriangle(length int) {
 	// TODO
 }
-
-// HINWEIS
-// - Diese Aufgabe ähnelt der zum Zeichnen eines gefüllten Rechtecks.
-// - Nutzen Sie - wie dort - zwei geschatelte Schleifen, um die Zeilen und Spalten des Dreiecks zu durchlaufen.
-// - Die innere Schleife darf aber dieses Mal nicht in jedem Schritt bis zum Ende der Zeile laufen.

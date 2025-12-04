@@ -8,6 +8,3 @@ package triangles
 func DrawTriangle(length int, inner, outer string) {
 	// TODO
 }
-
-// HINWEIS
-// - Dies ist eine Verallgemeinerung der beiden anderen Dreiecksaufgaben.

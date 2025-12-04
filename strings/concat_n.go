@@ -6,7 +6,3 @@ func ConcatN(s, sep string, n int) string {
 	// TODO
 	return ""
 }
-
-// HINWEIS
-// Hängen Sie in einer Schleife n-1 mal s und sep an den result-String an.
-// Hängen Sie dann noch ein weiteres Mal s an.

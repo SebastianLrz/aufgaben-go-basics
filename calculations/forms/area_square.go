@@ -6,6 +6,3 @@ func AreaSquare(a float64) float64 {
 	// TODO
 	return 0
 }
-
-// HINWEIS
-// Benutzen Sie die Funktion AreaRectangle().

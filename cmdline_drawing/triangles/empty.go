@@ -10,10 +10,5 @@ func DrawEmptyTriangle(length int) {
 	// TODO
 }
 
-// HINWEIS
-// - Nutzen Sie zwei ineinander geschachtelte Schleifen, um die Zeilen und Spalten des Dreiecks zu durchlaufen.
-// - Die äußere Schleife sollte die Zeilen durchlaufen, die innere Schleife die Spalten.
-// - Prüfen Sie in jeder Iteration, ob Sie sich am Rand befinden.
-
 // REMARKS
 // - Diese Aufgabe ist eine etwas komplexere Variante der Aufgabe "Gefülltes Dreieck" bzw. "Leeres Rechteck".

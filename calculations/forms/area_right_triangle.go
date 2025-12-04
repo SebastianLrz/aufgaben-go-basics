@@ -6,6 +6,3 @@ func AreaRightTriangle(a, b float64) float64 {
 	// TODO
 	return 0
 }
-
-// HINWEIS
-// Benutzen Sie die Funktion AreaRectangle() und teilen Sie das Ergebnis durch 2.

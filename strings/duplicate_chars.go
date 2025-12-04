@@ -6,8 +6,3 @@ func DuplicateChars(s string) string {
 	// TODO
 	return ""
 }
-
-// HINWEIS
-// Laufen Sie in einer for-Schleife über alle Buchstaben des Strings.
-// Fügen Sie in jedem Schleifendurchlauf den aktuellen Buchstaben zweimal
-// an den result-String an.

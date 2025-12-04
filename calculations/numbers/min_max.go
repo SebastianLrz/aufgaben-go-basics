@@ -11,6 +11,3 @@ func Max(a, b int) int {
 	// TODO
 	return 0
 }
-
-// HINWEIS
-// - Nutzen Sie jeweils eine `if`-Anweisung und den `<`-Operator.
