@@ -12,7 +12,7 @@ func CountDivisors(n int) int {
 	for i := 1; i <= n; i++ {
 
 		x := float64(n) / float64(i)
-		if x == math.Floor(x) {
+		if x == math.Floor(x) { //math.floor rundet ab, kann aber nur float64
 			teilerAnzahl++
 		}
 	}
