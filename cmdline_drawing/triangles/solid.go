@@ -6,5 +6,5 @@ package triangles
 // Der rechte Winkel soll links unten liegen und die Seiten sollen
 // vertikal bzw. horizontal verlaufen.
 func DrawSolidTriangle(length int) {
-	// TODO
+
 }
